@@ -8,5 +8,3 @@ This poster is meant to help visualise the results of all the different types of
 - The letters in the circles are added to increase understanding of what is actually returned, and helps differentiate between anti and normal joins
 
 [Poster](KQL-Poster-Image.png)
-
-Poster content was created by Jorick Rombout, visual design was performed by Taco van Gerven
